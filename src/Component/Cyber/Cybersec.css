@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.a{
+  font-family: "Newsreader", serif;
+  font-weight: 700;
+}
+
+.aa{
+  font-family: "Archivo", sans-serif;
+  font-weight: 800;
+}
+.a600{
+  font-family: "Archivo", sans-serif;
+  font-weight: 800;
+}
+
+.aaa{
+  font-family: "Inter", sans-serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 600;
+}
+.i700{
+  font-family: "Inter", sans-serif;
+  /* font-optical-sizing: auto; */
+  font-weight: 600;
+}
+
+button{
+  background-color: rgb(77, 232, 22);
+  border: 0;
+  padding: 9px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.a100{
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  
+}
+
+.i500{
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+ 
+
+}
+.i400{
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+ 
+
+}
+.i300{
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+ 
+
+}
+
+.m600{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.a700{
+  font-family: "Archivo", sans-serif;
+  font-weight: 700;
+  /* font-size: 30px; */
+}
+.a300{
+  font-family: "Archivo", sans-serif;
+  font-weight: 300;
+}
+.a400{
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+}
+
+.card{
+  background-color: rgb(26, 35, 50);
+  color: white;
+  border-radius: 10px;
+}
+
+.ab400{
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+}
+
+.p400{
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 27px;
+}
+
+.back{
+  background-image: url('../Asssets/Frame.png');
+  /* background: linear-gradient(to right, #05FF00 ,#05FF00,#3c3a3a, #000); */
+  /* opacity: .5; */
+  /* background-image: linear-gradient(red, yellow); */
+}
+
+
+
+.imgbg{
+  background-image: linear-gradient(rgb(18, 26, 39), rgb(20, 46, 44));
+}
+
+.bgimg{
+  background-image: linear-gradient(to right,rgb(23, 31, 45), rgb(19, 67, 38));
+  border-radius: 30px;
+  
+}
+
+.imgbggr{
+  background-image: linear-gradient(to right,rgb(10, 204, 12),rgb(26, 35, 50), rgb(19, 67, 38));
+  
+}
+.imgbggr1{
+  background-image: linear-gradient(to right,rgb(103, 8, 162),rgb(29, 31, 56), rgb(26, 35, 50));
+  
+}
